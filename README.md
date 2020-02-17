@@ -6,4 +6,4 @@ Simple concept, but a good start.
 
 2015.
 
-Cloned from my bitbucket repo.
+Cloned from my bitbucket repository.
